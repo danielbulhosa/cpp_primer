@@ -1,0 +1,3 @@
+/Users/danielbulhosa/CLionProjects/while_example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/danielbulhosa/CLionProjects/while_example/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danielbulhosa/CLionProjects/while_example/cmake-build-debug/CMakeFiles/while_example.dir
